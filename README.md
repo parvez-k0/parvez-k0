@@ -1,6 +1,6 @@
 # Hi there, I'm Mohd Parvez Khan! 👋
 
-Portfolio LinkedIn Email
+Email: parvezkhan9135@gmail.com  Portfolio: https://bit.ly/Parvez-khan-portfolio LinkedIn: www.linkedin.com/in/parvez-khan10 
 
 About Me
 I'm a Data Analyst Enthusiast with a Master of Computer Application. I love working on real-life projects and leveraging tools like Excel, Power BI, Python, SQL, and Machine Learning to turn data into actionable insights.
@@ -45,6 +45,4 @@ Analytical Thinking
 
 
 Let's Connect!
-Email: parvezkhan9135@gmail.com
-Portfolio: https://bit.ly/Parvez-khan-portfolio
-LinkedIn: www.linkedin.com/in/parvez-khan10                 
+            
