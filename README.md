@@ -21,11 +21,14 @@ I'm a Data Analyst Enthusiast with a Bachelor degree in **Mathematics and Statis
 **Python Data Analysis Project:** A team project aimed at automating store operations.
 
 # Skills
-**•	Languages			: Python, SQL
-  •	Database			: MySQL, MS SQL Server
+**•	Languages			        : Python, SQL
+
+  •	Database			        : MySQL, MS SQL Server
+  
   •	Data Analysis Tools		: Microsoft Excel, Python (NumPy & Pandas)
-  •	Data Visualization		: Power BI, Tableau, Python (Matplotlib & Seaborn)
-  •	Soft Skills			: Flexible, Communication and Collaboration Skills, Methodical, Strategic Analysis**
+  
+  •	Data Visualization		: Power BI, Tableau, Python (Matplotlib & Seaborn)**
+  
   
 
 ## Soft Skills
