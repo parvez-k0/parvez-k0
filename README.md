@@ -3,7 +3,7 @@
 Email: parvezkhan9135@gmail.com  Portfolio: https://bit.ly/Parvez-khan-portfolio LinkedIn: www.linkedin.com/in/parvez-khan10 
 
 About Me
-I'm a Data Analyst Enthusiast with a Master of Computer Application. I love working on real-life projects and leveraging tools like Excel, Power BI, Python, SQL, and Machine Learning to turn data into actionable insights.
+I'm a Data Analyst Enthusiast with a Bachelor degree in **Mathematics and Statistics** and Master degree in **Computer Science**. I love working on real-life projects and leveraging tools like Excel, Power BI, Python, SQL, and Machine Learning to turn data into actionable insights.
 
 🌱 Currently honing my skills in **Machine Learning** and **Advanced Data Analysis.**
 📊 Passionate about creating **data-driven** solutions and developing insightful **dashboards.**
@@ -21,14 +21,12 @@ I'm a Data Analyst Enthusiast with a Master of Computer Application. I love work
 **Python Data Analysis Project:** A team project aimed at automating store operations.
 
 # Skills
-## Programming
-**Python and JavaScript**
-
-## Web
-**HTML CSS Bootstrap Django Flask**
-
-## Tools
-**Power BI Excel SQL Tableau Matplotlib Seaborn**
+**•	Languages			: Python, SQL
+  •	Database			: MySQL, MS SQL Server
+  •	Data Analysis Tools		: Microsoft Excel, Python (NumPy & Pandas)
+  •	Data Visualization		: Power BI, Tableau, Python (Matplotlib & Seaborn)
+  •	Soft Skills			: Flexible, Communication and Collaboration Skills, Methodical, Strategic Analysis**
+  
 
 ## Soft Skills
 ⏳ **Time Management
