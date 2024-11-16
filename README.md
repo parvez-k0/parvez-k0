@@ -41,8 +41,9 @@ I'm a Data Analyst Enthusiast with a Bachelor degree in **Mathematics and Statis
 Data Statistics
 Analytical Thinking
 ## Experience & Education
-**🎓 Bachelor of Science (Mathematics) from University of Lucknow, India
-🎓 Master of Computer Application from Integral University, Lucknow India**
+**🎓 Bachelor of Science (Mathematics) from University of Lucknow, India**
+
+**🎓 Master of Computer Application from Integral University, Lucknow India**
 
 
 Let's Connect!
