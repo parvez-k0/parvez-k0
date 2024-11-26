@@ -19,7 +19,7 @@ Let’s make something great together with the power of data..
 
 **Excel Data Analysis Project:** In this repository, I’m excited to share my Excel data analysis projects. These projects highlight my ability to use Excel for organizing, analyzing, and visualizing data effectively.
 
-**Python Data Analysis Project:** A team project aimed at automating store operations.
+**Python Data Analysis Project:** In this repository, I’m excited to share my python data analysis and web scraping projects. These projects highlight my ability to use pythona and it libraries for organizing, analyzing, and visualizing data effectively
 
 # Skills
 
