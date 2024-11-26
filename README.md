@@ -1,6 +1,3 @@
-
-Email: parvezkhan9135@gmail.com  Portfolio: https://bit.ly/Parvez-khan-portfolio LinkedIn: www.linkedin.com/in/parvez-khan10 
-
 # Hi there!
 
 I’m **Mohd Parvez Khan**, a dedicated and data-driven **Data Analyst** who thrives on transforming data into valuable insights. With **Bachelor’s in Mathematics** and **Master’s in Computer Application (MCA)**. I discover my passion and chose to make it my career.
@@ -23,6 +20,7 @@ Let’s make something great together with the power of data..
 **Python Data Analysis Project:** A team project aimed at automating store operations.
 
 # Skills
+
   **Languages			        : Python, SQL**
 
   **Database			        : MySQL, MS SQL Server**
@@ -32,21 +30,25 @@ Let’s make something great together with the power of data..
   **Data Visualization		: Power BI, Tableau, Python (Matplotlib & Seaborn)**
   
   
+## Key Skills
 
-## Soft Skills
-⏳ **Time Management
-🔍 Problem Solving
+**🔍 Data Cleaning
+⏳ Data Visualization
+🤝 Storytelling
+⏳  Problem Solving
 🔄 Adaptability
 🤝 Team Collaboration**
 
-## Additional Skills
-Data Statistics
-Analytical Thinking
+
 ## Experience & Education
 **🎓 Bachelor of Science (Mathematics) from University of Lucknow, India**
 
 **🎓 Master of Computer Application from Integral University, Lucknow India**
 
-
 Let's Connect!
+**Email:** parvezkhan9135@gmail.com
+
+**Portfolio**: https://bit.ly/Parvez-khan-portfolio
+
+**LinkedIn:** www.linkedin.com/in/parvez-khan10 
             
