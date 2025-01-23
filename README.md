@@ -60,12 +60,12 @@ I’m **Mohd Parvez Khan**, a skilled **Python Developer** and **Data Analyst** 
 
 Here are some of my repositories showcasing Python and data-focused projects:  
 
-- [E-Commerce Platform](https://github.com/parvez-k0/Ecommerce-Website) 
-- [QR Generator with Weather App](https://github.com/parvez-k0/QR-Generator-with-weather-app)  
-- [Bloggin Website](https://github.com/parvez-k0/Bloggin-website)  
-- [Web Scraping Projects](https://github.com/parvez-k0/Web-Scraping)  
-- [Revenue Insights Analysis](https://github.com/parvez-k0/Revenue-Insights)  
-- [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)  
+- [E-Commerce Platform]([https://github.com/parvez-k0/Ecommerce-Website](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)) 
+- [QR Generator with Weather App]([https://github.com/parvez-k0/QR-Generator-with-weather-app](https://github.com/parvez-k0/QR_generator-Weather_app))  
+- [Bloggin Website]([https://github.com/parvez-k0/Bloggin-website](https://github.com/parvez-k0/Blogging-Website))  
+- [Web Scraping Projects]([https://github.com/parvez-k0/Web-Scraping](https://github.com/parvez-k0/WebScraping))  
+- [Revenue Insights Analysis]([https://github.com/parvez-k0/Revenue-Insights](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain))  
+- [Customer Segmentation]([https://github.com/parvez-k0/Customer-Segmentation](https://github.com/parvez-k0/Customer-Segmentation))  
 
 ---
 
