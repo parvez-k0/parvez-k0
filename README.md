@@ -27,17 +27,19 @@ I’m **Mohd Parvez Khan**, a skilled **Python Developer** and **Data Analyst** 
 
 ## 🏆 Featured Python Projects
 
-### **1. CRM Website**  
-- Built a CRM web application using **Django** to streamline customer management and improve team collaboration.
-- Achieved a 20% increase in team productivity by automating customer data handling.
-
-### **2. Recipe Sharing App**  
-- Designed and developed a recipe-sharing platform with full CRUD functionality using **Django** and **Bootstrap**.
-- Enabled over 1,000 user interactions and 500 recipes in the first three months.
-
-### **3. E-Commerce Platform**  
+### **1. E-Commerce Platform**  
 - Created a scalable e-commerce website using **Django** to manage products and transactions.
 - Improved user engagement by 35% through an optimized user experience.
+
+### **2. QR Generator with Weather App**  
+- Developed a Django-based website featuring QR Code generation and real-time weather retrieval via **REST** **APIs**. 
+- Leveraged Python libraries for QR code creation and integrated **OpenWeatherMap** API for dynamic weather data. 
+- Designed and implemented APIs using **Django** **REST** **Framework** (DRF) for efficient backend operation. 
+
+### **3. Blogging Web Application**  
+- Built a social platform using Django for user authentication, post creation, and **CRUD** operations. 
+- Implemented responsive **UI** using **Bootstrap**, enabling seamless user interaction and accessibility. 
+- Optimized the backend with **Django** **ORM** for efficient database interactions and dynamic content renderings.
 
 ### **4. Python Web Scraping for E-Commerce**  
 - Developed a web scraping tool using **Selenium** and **BeautifulSoup** to extract product data from e-commerce websites.
@@ -51,21 +53,19 @@ I’m **Mohd Parvez Khan**, a skilled **Python Developer** and **Data Analyst** 
 - Analyzed customer market data using **Python (Pandas, Seaborn)** to classify user behavior into actionable segments.
 - Built data models that improved marketing campaign targeting.
 
-### **7. Python Automation for Data Cleaning**  
-- Automated the data cleaning process for large datasets using **Python** scripts, reducing manual efforts by 60%.
-- Improved the efficiency of data processing pipelines for various projects.
 
 ---
 
 ## 📂 Explore My Projects
 
 Here are some of my repositories showcasing Python and data-focused projects:  
-- [CRM Website with Django](https://github.com/yourusername/CRM-Website)  
-- [Recipe Sharing App](https://github.com/yourusername/Recipe-App)  
-- [E-Commerce Platform](https://github.com/yourusername/Ecommerce-Website)  
-- [Web Scraping Projects](https://github.com/yourusername/Web-Scraping)  
-- [Revenue Insights Analysis](https://github.com/yourusername/Revenue-Insights)  
-- [Customer Segmentation](https://github.com/yourusername/Customer-Segmentation)  
+
+- [E-Commerce Platform](https://github.com/parvez-k0/Ecommerce-Website) 
+- [QR Generator with Weather App](https://github.com/parvez-k0/QR-Generator-with-weather-app)  
+- [Bloggin Website](https://github.com/parvez-k0/Bloggin-website)  
+- [Web Scraping Projects](https://github.com/parvez-k0/Web-Scraping)  
+- [Revenue Insights Analysis](https://github.com/parvez-k0/Revenue-Insights)  
+- [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)  
 
 ---
 
@@ -78,7 +78,7 @@ Here are some of my repositories showcasing Python and data-focused projects:
 
 ## 📈 Profile Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{YOUR_GITHUB_USERNAME}/count.svg" alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{parvez-k0}/count.svg" alt="Profile Visitor Count" />
 </p>
 
 ---
@@ -99,9 +99,3 @@ Here are some of my repositories showcasing Python and data-focused projects:
 
 ---
 
-### Notes:
-1. Replace placeholder links (`yourusername`) with the actual GitHub links for your repositories.
-2. Highlighted **Python Development** while maintaining **Data Analyst** skills to reflect a balanced profile.
-3. Removed unnecessary emojis to maintain a professional tone.
-
-Let me know if you want to further tweak this or add more details! 🚀
