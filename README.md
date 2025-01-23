@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=25&center=true&vCenter=true&lines=Welcome+to+My+Portfolio!;Data+Analyst+%26+Python+Developer;Transforming+Data+into+Insights+%26+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=25&center=true&vCenter=true&lines=Welcome+to+My+Portfolio!;Data+Analyst+and+Python+Developer;Turning+Data+into+Valuable+Insights;Building+Scalable+Solutions+with+Python" />
 </p>
 
 ---
