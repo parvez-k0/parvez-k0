@@ -20,7 +20,7 @@ I’m **Mohd Parvez Khan**, a skilled **Python Developer** and **Data Analyst** 
 - **Programming Languages**: Python, SQL  
 - **Web Development**: Django, Flask, HTML, CSS, Bootstrap  
 - **Database Management**: MySQL, MS SQL Server  
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
 - **Automation & Web Scraping**: Selenium, BeautifulSoup  
 
 ---
@@ -62,7 +62,7 @@ Here are some of my repositories showcasing Python and data-focused projects:
 
 - [E-Commerce Platform](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)
 - [QR Generator with Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
-- [Bloggin Website](https://github.com/parvez-k0/Blogging-Website) 
+- [Blogging Website](https://github.com/parvez-k0/Blogging-Website) 
 - [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)
 - [Revenue Insights Analysis](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain)  
 - [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)  
