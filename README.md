@@ -71,7 +71,7 @@ With a **Bachelor’s in Mathematics** and **Master’s in Computer Applications
 ## Let’s Connect!
 
 - **Email**: [parvezkhan9135@gmail.com](mailto:parvezkhan9135@gmail.com)  
-- **Portfolio**: [Visit Portfolio](https://bit.ly/Parvez-khan-portfolio)  
+- **Data Projects**: [Visit Portfolio]([https://mavenanalytics.io/profile/88f1a370-d0d1-7098-95d0-da5519fe50e4)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parvez-khan10)  
 
 ---
