@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm **Mohd Parvez Khan**
 
-### **Python Developer**
 
 <p align="center">
   <img 
