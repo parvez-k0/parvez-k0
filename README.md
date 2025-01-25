@@ -1,6 +1,11 @@
-# 👋 Hi there! I'm **Mohd Parvez Khan**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B801&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Analysis+and+Visualization;Building+Web+and+Data+Solutions)](https://git.io/typing-svg)
+<!-- Header Section -->
+<h1 align="center" style="font-size: 32px;">Hi there! 👋 I'm Mohd Parvez Khan</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&width=700&lines=Welcome+to+My+Portfolio!;Python+Developer;Building+Efficient+Web+and+Data+Solutions;Mastering+Automation+and+Insights" 
+    alt="Typing SVG Animation" 
+  />
+</p>
 
 ---
 
@@ -20,46 +25,31 @@ I’m **Mohd Parvez Khan**, a dedicated **Python Developer** passionate about cr
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Python Projects
 
 ### **1. E-Commerce Website**  
-🚀 Built a fully functional e-commerce site using **Django**, enhancing user engagement with optimized functionality.  
-[View Project](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)
+- Built a fully functional e-commerce site using **Django**, enhancing user engagement with optimized functionality.
+
+### **2. QR Generator & Weather App**  
+- Developed a QR code generator and weather dashboard using **Django** and **REST APIs**, integrating live weather updates.  
+
+### **3. Blogging Application**  
+- Designed a blogging platform with user authentication, post management, and a responsive **UI** powered by **Bootstrap**.
+
+### **4. Web Scraping Tool**  
+- Created an automated tool using **Selenium** and **BeautifulSoup** to scrape e-commerce product data and store it in structured CSV files.
+
+### **5. Revenue Analysis in Hospitality**  
+- Analyzed hospitality revenue data with **Pandas** and visualized trends to aid stakeholders in decision-making.
 
 ---
 
-### **2. Web Scraping Tool**  
-🕸️ Created an automated tool using **Selenium** and **BeautifulSoup** to scrape e-commerce product data and store it in structured CSV files.  
-[View Project](https://github.com/parvez-k0/WebScraping)
+## 📂 Explore My Work
 
----
-
-### **3. Revenue Analysis in Hospitality**  
-📊 Analyzed hospitality revenue data with **Pandas** and visualized trends to aid stakeholders in decision-making.  
-[View Project](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Mohd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvez-k0&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-k0&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=for-the-badge&logo=GitHub&logoColor=white)](https://bit.ly/Parvez-khan-portfolio)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parvez-khan10)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:parvezkhan9135@gmail.com)
-
-</div>
+- [E-Commerce Website](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)  
+- [QR Generator & Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
+- [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)  
+- [Revenue Analysis](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain)  
 
 ---
 
@@ -70,10 +60,19 @@ I’m **Mohd Parvez Khan**, a dedicated **Python Developer** passionate about cr
 
 ---
 
-## ⚡ Fun GIFs!
+## 📬 Connect with Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px" alt="wave gif">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100px" alt="coding gif">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" alt="analyzing gif">
-</p>
+- **Email**: [parvezkhan9135@gmail.com](mailto:parvezkhan9135@gmail.com)  
+- **Portfolio**: [Visit Portfolio](https://bit.ly/Parvez-khan-portfolio)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parvez-khan10)  
+
+---
+
+## 💼 Key Strengths
+
+- **Python Development**: Experienced in creating web applications using Django and Flask.  
+- **Automation**: Skilled in automating repetitive tasks with Python scripts.  
+- **Data Expertise**: Proficient in cleaning, analyzing, and visualizing data with Python libraries.  
+- **Problem Solving**: Adept at breaking down challenges and delivering optimized solutions.
+
+---
