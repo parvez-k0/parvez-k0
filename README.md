@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Mohd Parvez Khan**
+<h1 align="center" style="font-size: 32px; animation: fadeIn 2s ease;">Hi there! 👋 I'm Mohd Parvez Khan</h1>
 
 
 <p align="center">
@@ -96,3 +96,9 @@ Here are some of my repositories showcasing my Python and web development projec
 - **API Development**: Experience in building robust APIs using **Django REST Framework** (DRF) to streamline backend operations.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px" alt="wave gif">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100px" alt="coding gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" alt="analyzing gif">
+</p>
