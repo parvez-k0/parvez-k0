@@ -2,7 +2,7 @@
 <h1 align="center" style="font-size: 32px;">Hi there! 👋 I'm Mohd Parvez Khan</h1>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&width=700&lines=Welcome+to+My+Portfolio!;Python+Developer;Building+Efficient+Web+and+Data+Solutions;Mastering+Automation+and+Insights" 
+    src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&width=700&lines=Welcome+to+My+Portfolio!;Python+Developer+and+Data+Analyst;Creating+Scalable+Web+and+Data+Solutions;Mastering+Data+Insights+with+Python" 
     alt="Typing SVG Animation" 
   />
 </p>
@@ -11,56 +11,79 @@
 
 ## 🌟 About Me
 
-I’m **Mohd Parvez Khan**, a dedicated **Python Developer** passionate about creating efficient web applications, automation tools, and transforming data into meaningful insights. With a strong academic foundation in **Mathematics** and **Computer Applications**, I specialize in **Python** to build scalable, real-world solutions.
+I’m **Mohd Parvez Khan**, a skilled **Python Developer** and **Data Analyst** passionate about crafting scalable web applications, building automation solutions, and transforming data into actionable insights. With a **Bachelor’s in Mathematics** and **Master’s in Computer Application (MCA)**, I specialize in leveraging **Python** to solve real-world problems efficiently.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming**: Python, SQL  
+- **Programming Languages**: Python, SQL  
 - **Web Development**: Django, Flask, HTML, CSS, Bootstrap  
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Database Management**: MySQL, MS SQL Server  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
 - **Automation & Web Scraping**: Selenium, BeautifulSoup  
-- **Databases**: MySQL, MS SQL Server  
 
 ---
 
 ## 🏆 Featured Python Projects
 
-### **1. E-Commerce Website**  
-- Built a fully functional e-commerce site using **Django**, enhancing user engagement with optimized functionality.
+### **1. E-Commerce Platform**  
+- Created a scalable e-commerce website using **Django** to manage products and transactions.
+- Improved user engagement by 35% through an optimized user experience.
 
-### **2. QR Generator & Weather App**  
-- Developed a QR code generator and weather dashboard using **Django** and **REST APIs**, integrating live weather updates.  
+### **2. QR Generator with Weather App**  
+- Developed a Django-based website featuring QR Code generation and real-time weather retrieval via **REST** **APIs**. 
+- Leveraged Python libraries for QR code creation and integrated **OpenWeatherMap** API for dynamic weather data. 
+- Designed and implemented APIs using **Django** **REST** **Framework** (DRF) for efficient backend operation. 
 
-### **3. Blogging Application**  
-- Designed a blogging platform with user authentication, post management, and a responsive **UI** powered by **Bootstrap**.
+### **3. Blogging Web Application**  
+- Built a social platform using Django for user authentication, post creation, and **CRUD** operations. 
+- Implemented responsive **UI** using **Bootstrap**, enabling seamless user interaction and accessibility. 
+- Optimized the backend with **Django** **ORM** for efficient database interactions and dynamic content renderings.
 
-### **4. Web Scraping Tool**  
-- Created an automated tool using **Selenium** and **BeautifulSoup** to scrape e-commerce product data and store it in structured CSV files.
+### **4. Python Web Scraping for E-Commerce**  
+- Developed a web scraping tool using **Selenium** and **BeautifulSoup** to extract product data from e-commerce websites.
+- Automated structured data storage in CSV for analysis.
 
-### **5. Revenue Analysis in Hospitality**  
-- Analyzed hospitality revenue data with **Pandas** and visualized trends to aid stakeholders in decision-making.
+### **5. Revenue Insights in Hospitality**  
+- Utilized **Python (Pandas, Matplotlib)** for analyzing revenue data and uncovering trends in the hospitality sector.
+- Provided actionable insights for stakeholders through visualizations.
+
+### **6. Customer Segmentation Analysis**  
+- Analyzed customer market data using **Python (Pandas, Seaborn)** to classify user behavior into actionable segments.
+- Built data models that improved marketing campaign targeting.
+
 
 ---
 
-## 📂 Explore My Work
+## 📂 Explore My Projects
 
-- [E-Commerce Website](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)  
-- [QR Generator & Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
-- [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)  
-- [Revenue Analysis](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain)  
+Here are some of my repositories showcasing Python and data-focused projects:  
+
+- [E-Commerce Platform](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)
+- [QR Generator with Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
+- [Blogging Website](https://github.com/parvez-k0/Blogging-Website) 
+- [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)
+- [Revenue Insights Analysis](https://github.com/parvez-k0/Revenue-Insights-in-hospitality-domain)  
+- [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)  
 
 ---
 
 ## 🎓 Education
 
-- **B.Sc. in Mathematics** – University of Lucknow  
-- **MCA** – Integral University, Lucknow  
+- **B.Sc. in Mathematics** – University of Lucknow, India  
+- **MCA in Computer Applications** – Integral University, Lucknow, India  
 
 ---
 
-## 📬 Connect with Me
+## 📈 Profile Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{parvez-k0}/count.svg" alt="Profile Visitor Count" />
+</p>
+
+---
+
+## 📬 Let’s Connect!
 
 - **Email**: [parvezkhan9135@gmail.com](mailto:parvezkhan9135@gmail.com)  
 - **Portfolio**: [Visit Portfolio](https://bit.ly/Parvez-khan-portfolio)  
@@ -69,10 +92,10 @@ I’m **Mohd Parvez Khan**, a dedicated **Python Developer** passionate about cr
 ---
 
 ## 💼 Key Strengths
-
-- **Python Development**: Experienced in creating web applications using Django and Flask.  
-- **Automation**: Skilled in automating repetitive tasks with Python scripts.  
-- **Data Expertise**: Proficient in cleaning, analyzing, and visualizing data with Python libraries.  
-- **Problem Solving**: Adept at breaking down challenges and delivering optimized solutions.
+- **Web Development**: Proficient in building scalable and secure applications using Django and Flask.  
+- **Automation**: Expertise in automating data collection and cleaning processes with Python.  
+- **Data Analysis**: Strong command of data manipulation and visualization using Pandas and Matplotlib.  
+- **Problem Solving**: Efficient at breaking down complex problems into actionable solutions using Python.  
 
 ---
+make this 80% for a python developer
