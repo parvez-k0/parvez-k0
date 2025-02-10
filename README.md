@@ -31,23 +31,23 @@ With a **Bachelor’s in Mathematics** and **Master’s in Computer Applications
 
 ## My Projects
 
-### **1.** [E-Commerce Platform](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)
+### 1. [E-Commerce Platform](https://github.com/parvez-k0/The-Fashion-Matrix-Ecommerce-Website)
 - Developed a **scalable e-commerce website** with **Django**, handling product management and transactions.
 - Designed a seamless user interface with **Bootstrap**, increasing user engagement and improving the UX.
 
-### **2.** [QR Generator with Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
+### 2. [QR Generator with Weather App](https://github.com/parvez-k0/QR_generator-Weather_app)  
 - Built a Django-powered website that integrates **QR Code generation** with real-time **weather updates** via **REST APIs**.
 - Optimized the backend using **Django REST Framework** for smooth API interactions.
 
-### **3.** [Blogging Website](https://github.com/parvez-k0/Blogging-Website) 
+### 3. [Blogging Website](https://github.com/parvez-k0/Blogging-Website) 
 - Developed a full-fledged **social platform** using **Django** for user authentication, **CRUD** operations, and blog post management.
 - Created responsive UI using **Bootstrap**, ensuring excellent accessibility across devices.
 
-### **4.** [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)
+### 4. [Web Scraping Projects](https://github.com/parvez-k0/WebScraping)
 - Designed a **web scraping tool** using **Selenium** and **BeautifulSoup** to extract data from e-commerce sites for analysis.
 - Automated the data extraction and storage in CSV format for further processing.
 
-### **5.** [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)
+### 5. [Customer Segmentation](https://github.com/parvez-k0/Customer-Segmentation)
 - Performed customer segmentation using **Pandas** and **Seaborn** to classify customer behavior.
 - Delivered actionable insights through visualizations, enabling targeted marketing campaigns.
 
